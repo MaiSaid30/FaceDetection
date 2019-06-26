@@ -8,7 +8,7 @@
 
 Horus is a face recognition web application with 99.7% accuracy by using deep learning Convolutional Neural Network (ResNet) by utilizing Python, Pytorch, Fastai library, Kaggle dataset , Render platform. 
 
-### [Live Demo](https://trial.onrender.com/)
+### [Live Demo](https://horus.onrender.com)
 
 
 
