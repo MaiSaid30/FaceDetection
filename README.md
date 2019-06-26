@@ -23,9 +23,9 @@ Horus is a face recognition web application with 99.7% accuracy by using deep le
 
 ## screenshots
 
-<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/1.PNG" height="150">
-<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/2.PNG" height="150">
-<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/3.PNG" height="150">
-<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/4.PNG" height="150">
-<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/5.PNG" height="150">
+<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/1.PNG" height="300">
+<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/2.PNG" height="300">
+<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/3.PNG" height="300">
+<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/4.PNG" height="300">
+<img src="https://github.com/MaiSaid30/Horus/blob/master/Screenshots/5.PNG" height="300">
 
